@@ -3,8 +3,6 @@
 # including their grades and attendance.
 # Coder:
 # Date:
-
-
 students = {
     "251S005": {"name": "Sameer",  "grade": "A",  "attendance": 68},
     "251S026": {"name": "Katrina", "grade": "A-", "attendance": 55},
@@ -51,4 +49,5 @@ print(f"Final Student Records: {students}")
 
 # Stop coding here
 print(f"Final Student Records: {students_records}")
+
 
